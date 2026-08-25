@@ -59,12 +59,13 @@
 ## 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amberjaiswalgit17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amberjaiswalgit17&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amberjaiswalgit17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amberjaiswalgit17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amberjaiswalgit17&theme=algolia&row=1&column=7&no-frame=true&bg_color=0D1117" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amberjaiswalgit17&theme=algolia&row=1&column=7&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
 <br/>
 
