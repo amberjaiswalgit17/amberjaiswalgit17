@@ -59,12 +59,13 @@
 ## 📊 GitHub Engineering Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amberjaiswalgit17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amberjaiswalgit17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amberjaiswalgit17&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amberjaiswalgit17&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amberjaiswalgit17&theme=algolia&row=1&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amberjaiswalgit17&theme=algolia&row=1&column=7&no-frame=true&v=1" alt="GitHub Trophies" />
 </p>
+
 
 
 <br/>
